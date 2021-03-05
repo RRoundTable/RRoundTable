@@ -25,3 +25,8 @@ Machine Learning Research Engineer @ [MakinaRocks](http://makinarocks.ai/)
 - Participation Award in [Big data festival 2018](https://www.miraeassetdaewoo.com/hki/hki7000/v01.do?eventId=201806B)
 
   [Anaylized stock clustering by network analysis](https://github.com/RRoundTable/stock_network_analysis)
+
+### Makinarocks
+
+- [Anomaly Detection 서비스 개발](https://www.irobotnews.com/news/articleView.html?idxno=23243)
+- Tech Blog: [Noisy Gradient 다루기](https://makinarocks.github.io/Gradient-Accumulation/)
