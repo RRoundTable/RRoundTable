@@ -17,7 +17,7 @@ Machine Learning Research Engineer @ [MakinaRocks](http://makinarocks.ai/)
 
 - [Anomaly Detection 서비스 개발](https://www.irobotnews.com/news/articleView.html?idxno=23243)
 - Tech Blog: [Noisy Gradient 다루기](https://makinarocks.github.io/Gradient-Accumulation/)
-- Regression Test on k8s: Experiment Automation
+- Tech Blog: [Regression Test on k8s: Experiment Automation](https://makinarocks.github.io/Regresssion-Test/?fbclid=IwAR33ILGNd854Au3yO8qHgHHledB3Rn9hOUceDJy0BYEJLUfS8JtqqYVlk28)
 - GitHub Action
 
 
