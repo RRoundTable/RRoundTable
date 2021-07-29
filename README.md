@@ -2,11 +2,11 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/RRoundTable/hit-counter)](https://hits.seeyoufarm.com)
 
-Machine Learning Research Engineer @ [MakinaRocks](http://makinarocks.ai/)
+MLOps Engineer @ [Spacewalk](https://www.spacewalk.tech/)
 
-- Anomaly Detection
-- Deeplearning: Computer Vision
-- MLOps
+- Serving Reinforcemet Model & Genetic Algorithm for design architecture
+- Build CI/CD Pipeline
+
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://rroundtable.github.io/blog/)](https://rroundtable.github.io/blog/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wontak-ryu-bb26b4137/)](https://www.linkedin.com/in/wontak-ryu-bb26b4137/)
