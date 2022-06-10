@@ -25,7 +25,7 @@ MLOps Engineer @ [Spacewalk](https://www.spacewalk.tech/)
 
 - 3rd Prize in [EO Detection Contest 2020](https://dacon.io/competitions/official/235492/overview/)
 - 1st Prize in [Open Innovation Hackerton 2019](https://www.youtube.com/watch?v=tDl6UmlbNBs&ab_channel=%EC%84%B1%EB%82%A8TV)
-- Excellence Award and Technical Award in[Super Challenge Hackerton 2019](https://www.jobaba.net/fntn/dtl.do?seq=6308&sn=)
+- Excellence Award and Technical Award in [Super Challenge Hackerton 2019](https://www.jobaba.net/fntn/dtl.do?seq=6308&sn=)
 
   [Ocean litter detection](https://github.com/RRoundTable/Ocean_litter_detection) project with GPS information.
   
