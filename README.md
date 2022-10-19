@@ -2,16 +2,21 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/RRoundTable/hit-counter)](https://hits.seeyoufarm.com)
 
-MLOps Engineer @ [Spacewalk](https://www.spacewalk.tech/)
+ML Problem Solver @ [AnnotationAI](https://www.annotation-ai.com/)
 
-- Serving Reinforcemet Model & Genetic Algorithm for design architecture
-- Build CI/CD Pipeline
+- Develop MLWiz Product[ing]
+- MLWiz covers a full lifecycle of MLOps (e.g. ML Workflow, ML Serving, Model Registry, ML Api, Model Serving, ...)
 
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://rroundtable.github.io/blog/)](https://rroundtable.github.io/blog/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wontak-ryu-bb26b4137/)](https://www.linkedin.com/in/wontak-ryu-bb26b4137/)
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100024528850182)](https://www.facebook.com/profile.php?id=100024528850182)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ryu071511@gmail.com)](mailto:ryu071511@gmail.com)
+
+### SpaceWalk
+- [Accelerating Reinforcement Batch Inference Speed through Unlimited Parallel Processing (AWS, k8s)](https://medium.com/spacewalk-blog/accelerating-reinforcement-batch-inference-speed-through-unlimited-parallel-processing-aws-k8s-b58debe0e095)
+- Serving Reinforcemet Model & Genetic Algorithm for design architecture
+- Build CI/CD Pipeline
 
 ### Makinarocks
 
