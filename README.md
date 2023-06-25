@@ -10,7 +10,7 @@
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100024528850182)](https://www.facebook.com/profile.php?id=100024528850182)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ryu071511@gmail.com)](mailto:ryu071511@gmail.com)
 
-- As a machine learning engineer with experience in ML operations, I have developed the MLWiz product which covers the full lifecycle of MLOps, including ML Workflow, ML Serving, Model Registry, ML API, and Model Serving. I have also worked with AnnotationAI as an ML Problem Solver.
+- As a machine learning engineer, I worked on a series of tasks required for ML production, ranging from model training and reproduction, model optimization, serving, API optimization, and infrastructure setup.
 
 - In addition to this, I have developed [Segmentation Similarthings](https://huggingface.co/spaces/Annotation-AI/segment-similarthings) using the Segment Anything Model (SAM) and Support Embeddings. SAM is a foundation model that has zero-shot performance. Segmentation Similarthings applies machine learning to find similar objects while adjusting the number of inferences. For example, if you want to find 10 similar objects in an image, you only need 10 inferences! This is a more efficient way to segment similar objects in an image compared to segmenting all objects in an image which requires 1,024 inferences per a single image.
 
@@ -66,11 +66,3 @@ At VUNO, I worked on the following projects:
 
 - 3rd Prize in [EO Detection Contest 2020](https://dacon.io/competitions/official/235492/overview/)
 - 1st Prize in [Open Innovation Hackerton 2019](https://www.youtube.com/watch?v=tDl6UmlbNBs&ab_channel=%EC%84%B1%EB%82%A8TV)
-- Excellence Award and Technical Award in [Super Challenge Hackerton 2019](https://www.jobaba.net/fntn/dtl.do?seq=6308&sn=)
-
-  [Ocean litter detection](https://github.com/RRoundTable/Ocean_litter_detection) project with GPS information.
-  
-- Participation Award in [Big data festival 2018](https://www.miraeassetdaewoo.com/hki/hki7000/v01.do?eventId=201806B)
-
-  [Anaylized stock clustering by network analysis](https://github.com/RRoundTable/stock_network_analysis)
-
